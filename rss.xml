@@ -4,8 +4,15 @@
         <description><![CDATA[Native English Spain]]></description>
         <link>https://thegrid.ai/native-english-spain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 17:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 17:47:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/native-english-spain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ground Operations & Commercial Routes Director en Wamos Air</p>]]></description>
+            <link>https://thegrid.ai/native-english-spain/51650b4f-ae65-41a4-807f-8653d12cb315/index.html</link>
+            <guid isPermaLink="false">51650b4f-ae65-41a4-807f-8653d12cb315</guid>
+            <pubDate>Sun, 21 Feb 2016 17:46:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3f167b2-c6aa-4f7d-a025-5af394f9be52.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/native-english-spain/cb020e5f-e60a-4cbc-ba75-f2efc1412809/index.html</link>
             <guid isPermaLink="false">cb020e5f-e60a-4cbc-ba75-f2efc1412809</guid>
             <pubDate>Sun, 21 Feb 2016 17:45:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5dff8b1-3c9d-4ae6-bf53-e71acf18bfbf.jpg">]]></description>
-            <link>https://thegrid.ai/native-english-spain/1408dbcf-9f07-486e-9161-64d485285858/index.html</link>
-            <guid isPermaLink="false">1408dbcf-9f07-486e-9161-64d485285858</guid>
-            <pubDate>Sun, 21 Feb 2016 17:45:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
