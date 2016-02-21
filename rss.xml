@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Native English Spain]]></title>
         <description><![CDATA[Native English Spain]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/native-english-spain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 17:42:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 17:42:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/native-english-spain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a793343e-fb8c-4000-823d-5aa6febe5ae5.jpg">]]></description>
+            <link>https://thegrid.ai/native-english-spain/c2ffa2ec-3ad0-424d-851d-21edb3e05375/index.html</link>
+            <guid isPermaLink="false">c2ffa2ec-3ad0-424d-851d-21edb3e05375</guid>
+            <pubDate>Sun, 21 Feb 2016 17:42:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c091487f-9418-45d4-a2f3-5a995e4f4505.jpg" alt="" title="">]]></description>
-            <link>undefined453af314-9a1e-45f8-b65a-39575819f987/index.html</link>
+            <link>https://thegrid.ai/native-english-spain/453af314-9a1e-45f8-b65a-39575819f987/index.html</link>
             <guid isPermaLink="false">453af314-9a1e-45f8-b65a-39575819f987</guid>
             <pubDate>Sun, 21 Feb 2016 17:41:48 GMT</pubDate>
         </item>
