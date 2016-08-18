@@ -1,20 +1,4 @@
-name: Native English Spain
-favicon: null
-layout_spectrum: 0.73779
 typography_spectrum: 1
-title: 'Making English Simple, Fun & Affordable!'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0a208c'
@@ -26,4 +10,26 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.73779
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  url: nativeenglishspain.com
+  email: nativeenglish.es@gmail.com
+  name: Native English Spain
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/33958e38-7b40-44d4-9946-39573391d200.png
+name: Native English Spain
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Making English Simple, Fun & Affordable!'
 purpose: []
