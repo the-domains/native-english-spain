@@ -20,7 +20,7 @@ analytics:
   facebook: null
   twitter: null
 author:
-  url: nativeenglishspain.com
+  url: 'http://nativeenglishspain.com'
   email: nativeenglish.es@gmail.com
   name: Native English Spain
 logo: >-
@@ -30,6 +30,7 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc858566-16c1-4509-af93-9ddc00141461.png
 title: 'Making English Simple, Fun & Affordable!'
 purpose: []
