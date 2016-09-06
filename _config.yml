@@ -30,6 +30,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About Us
+    id: c158842a-b887-4663-bae1-c75deeb4154a
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc858566-16c1-4509-af93-9ddc00141461.png
 title: 'Making English Simple, Fun & Affordable!'
